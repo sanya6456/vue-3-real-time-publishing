@@ -1,5 +1,5 @@
 # vue-app
-
+![](src/assets/real-time-posting.png)
 ## Project setup
 ```
 npm install
